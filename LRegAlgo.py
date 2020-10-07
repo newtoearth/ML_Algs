@@ -6,8 +6,8 @@ import random
 
 style.use('ggplot')
 
-# xs = np.array([1,2,3,4,5,6], dtype = np.float64)
-# ys = np.array([5,4,6,5,6,7], dtype = np.float64)
+# xs = np.array([1,2,3,4,5,6], dtype = np.float64)  for hard coding
+# ys = np.array([5,4,6,5,6,7], dtype = np.float64)  for hard coding
 
 def create_dataset(hm, variance, step=2, correlation=False):
 	val = 1
